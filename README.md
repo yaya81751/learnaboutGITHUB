@@ -1,0 +1,2 @@
+# learnaboutGITHUB
+自身のローカルに初めてGITHUBでリポジトリ作ってみた
